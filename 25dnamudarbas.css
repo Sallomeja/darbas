@@ -1,0 +1,84 @@
+body {
+    font-size: 30px;
+    font-family: 'Great Vibes' cursive;
+}
+.Abox {
+    float: left;
+    background-color: rgb(128, 202, 159);
+    width: 73%;
+    height: 1em;
+    margin-right: 5px ;
+}
+.Bbox {
+    float: left;
+    background-color: rgb(12, 63, 33);
+    width: 25%;
+    height: 2em;
+    margin-left: 5px ;
+}
+.Cbox {
+    float: left;
+    background-color: rgb(153, 145, 31);
+    width: 20%;
+    height: 9em;
+    margin-right: 8px;
+    overflow: auto;
+    text-align: left;
+    }
+.Dbox {
+    
+    background-color: rgb(36, 38, 172);
+    width: 100%;
+    height: 1em;
+    margin-bottom: 10px;
+    }
+.Ebox {
+    background-color: rgb(68, 70, 175);
+    width: 100%;
+    height: 1em;
+    margin-bottom: 10px;
+}
+.Gbox {
+    font-size: 20px;
+    background-color: rgb(74, 77, 230);
+    width: 100%;
+    height: 8em;
+    overflow: auto;
+    text-align: left;
+}
+
+.Fbox {
+    background-color: rgb(172, 56, 56);
+    height: 2em;
+    margin-bottom: 10px;
+        }
+.Hbox {
+    background-color: rgb(192, 55, 55);
+    height: 8em;
+    overflow: auto;
+     }
+.Ifooter {
+    clear: both;
+    background-color: rgb(117, 219, 226);
+    text-align: center;
+    height: 5em;
+    width: 100%;
+    }
+.yb {
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 73%;
+}
+.red {
+    display: inline-block;
+    width: 25%;
+    text-align: left;
+   }
+.blue {
+    display: inline-block;
+    width: 79%;
+    margin-left: 2px;
+    margin-top: 3px;
+}
